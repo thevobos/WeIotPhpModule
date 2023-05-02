@@ -1,0 +1,11 @@
+{
+    "name": "thevobos/WeIotPhpModule",
+    "description": "This module is working with WeIot Server.",
+    "autoload": {
+        "psr-4": {
+            "thevobos\\WeIotPhpModule\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
